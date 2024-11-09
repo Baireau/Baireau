@@ -12,8 +12,9 @@ As a proud **Linux** 🐧 evangelist, I’m all about that open-source life. Rig
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg" alt="neovim" width="40" height="40"/> </a>
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Neovim-mark.svg" alt="neovim" width="40" height="40"/> </a>
   <a href="https://github.com/tmux/tmux" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tmux-logo.svg/1200px-Tmux-logo.svg.png" alt="tmux" width="40" height="40"/> </a>
+  <a href="https://www.openbsd.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/OpenBSD_textual_logo.svg" alt="tmux" width="40" height="40"/> </a>
 </p>
 
 I’m always on the lookout for new challenges and opportunities to learn. If you’re into cybersecurity, reverse engineering, or just want to chat about the latest exploits, hit me up! Let’s connect and share some knowledge in this ever-evolving digital landscape.
