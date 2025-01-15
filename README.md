@@ -14,6 +14,7 @@ As a proud **Linux** 🐧 user, I’m all about that open-source life. Right now
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" border="0"/> </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40" border="0"/> </a>
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40" border="0"/> </a>
+ <a href="https://i3wm.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" alt="i3wm" width="40" height="40" border="0"/> </a>
   <a href="https://github.com/tmux/tmux" target="_blank" rel="noreferrer"> <img src="https://github.com/tmux/tmux/blob/master/logo/tmux-logomark.svg" alt="tmux" width="40" height="40" border="0"/> </a>
 </p>
 
