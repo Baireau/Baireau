@@ -1,8 +1,8 @@
 # About Me
 
-Hey there! 👋 I’m a cybersecurity geek with a passion for **reverse engineering**, **binary exploitation** and **hardware** 🛠️. I love diving deep into code and figuring out how things tick!
+Hey there! 👋 I’m a cybersecurity enthusiast and a student who explores offensive security in my free time, focusing on reverse engineering 🔍, binary exploitation ⚙️, hardware security 🛠️, and web vulnerabilities 🌐.
 
-As a proud **Linux** 🐧 user, I’m all about that open-source life. Right now, I’m grinding through **C** 💻 on my own to level up my skills. Once I’ve mastered C, I’ll be diving into **Rust** 🦀 !
+Right now, I’m grinding through **C** 💻 on my own to level up my skills. Once I’ve mastered C, I’ll be diving into **Rust** 🦀 !
 
 ## Technologies & Tools
 
@@ -19,4 +19,4 @@ As a proud **Linux** 🐧 user, I’m all about that open-source life. Right now
   <a href="https://github.com/tmux/tmux" target="_blank" rel="noreferrer"> <img src="https://github.com/tmux/tmux/blob/master/logo/tmux-logomark.svg" alt="tmux" width="40" height="40" border="0"/> </a>
 </p>
 
-I’m always on the lookout for new challenges and opportunities to learn. If you’re into cybersecurity, reverse engineering, or just want to chat about the latest exploits, hit me up! Let’s connect and share some knowledge in this ever-evolving digital landscape.
+I’m always looking for new challenges and opportunities to learn. If you’re into cybersecurity, reverse engineering, or just want to chat, feel free to contact me ! 🤝
