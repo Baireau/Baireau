@@ -7,7 +7,7 @@ As a proud **Linux** 🐧 user, I’m all about that open-source life. Right now
 ## Technologies & Tools
 
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" border="0"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width=auto height="40" border="0"/> </a>
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="arch linux" width="40" height="40" border="0"/> </a>
   <a href="https://www.openbsd.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/OpenBSD_textual_logo.svg" alt="openbsd" width="40" height="40" border="0"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" border="0"/> </a>
