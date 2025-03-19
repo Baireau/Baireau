@@ -32,8 +32,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tmux_logo.svg" height="40" alt="tmux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
