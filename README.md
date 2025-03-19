@@ -1,16 +1,4 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/132989132?v=4/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=baireau.baireau&"  />
 </div>
 
 ###
